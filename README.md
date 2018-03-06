@@ -4,5 +4,8 @@ loan listings on its website by supplying details about themselves and the loans
 This notebook demonstrates Data Wrangling,Feature Selection and training set of Classifiers with best possible hyperparmeters.
 For better results 5-fold cross validaiton is performed and various classification metrics are used to select best possible classifer for prediction of loan defaulters.
 
-As for any other data science project, certain assumptions are made while building these classifers which are documented in the published notebook 
+As for any standard data science project, certain assumptions are made while building these classifers which are documented in the published notebook.
+
+P.S: I am unable to upload data file here. It can be downloaded from Lending club's website here:
+https://www.lendingclub.com/info/download-data.action
 
